@@ -1,4 +1,40 @@
-.center {
+* {
+	color: #081011;
+	font-family: 'Roboto', sans-serif;
+}
+
+a {
+	color: #900505;
+}
+
+body {
+	height: 100vh;
+	width: 100vw;
+	background-image: url("../img/background.png");
+}
+
+#banner {
+	background-color: rgba(222, 217, 226, 0.5);
+	padding-top: 1em;
+	padding-bottom: 0.5em;
+}
+
+#logo {
+	display: block;
+	height: 5em;
+}
+
+.vcenter {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.hcenter {
     margin-left: auto;
     margin-right: auto;
+}
+
+.text-hcenter {
+	text-align: center;
 }
