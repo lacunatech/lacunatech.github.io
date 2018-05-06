@@ -16,7 +16,7 @@ html, body {
 
 footer p {
 	font-size: 0.85rem;
-	color: rgba(8,16,17,0.75);
+	color: rgba(8,16,17,0.6);
 }
 
 #main {
@@ -53,8 +53,8 @@ footer p {
 	justify-content: center;
 	align-items: center;
 	
-	background-color: rgba(222, 217, 226, 0.5);
-	padding-top: 1rem;
+	background-color: rgba(255, 255, 252, 0.85);
+	padding-top: 1.5rem;
 	padding-bottom: 0.5rem;
 }
 
