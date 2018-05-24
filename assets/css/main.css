@@ -47,6 +47,25 @@ footer p {
 	color: rgba(8,16,17,1);
 }
 
+#telephone {
+	font-size: 0.85rem;
+	text-decoration: none;
+}
+
+.hidden {
+	display: none;
+}
+
+.link {
+	background-color: transparent;
+	border: 0;
+	color: rgba(8,16,17,1);
+	cursor: pointer;
+	display: inline-block;
+	padding: 0;
+	position: relative;
+}
+
 #banner {
 	display: flex;
 	flex-direction: column;
